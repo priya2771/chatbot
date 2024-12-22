@@ -1,7 +1,7 @@
 .chatbot-widget {
-  position: fixed;
-  top: 200px;
-  left: 600px;
+  position: absolute;
+  top: 20px;
+  left: 60px;
   width: 300px;
   font-family: Arial, sans-serif;
 }
